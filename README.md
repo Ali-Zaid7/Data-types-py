@@ -1,1 +1,1 @@
-# Datatypes in Python
+# Data Types in Python
